@@ -29,4 +29,11 @@ This project classifies paddy leaf diseases using EfficientNet, Vision Transform
 ## Model Training (Optional)
 To retrain the models: Run the leaf-disease.ipynb file
 
+Make sure to Download the dataset beforehand: [Paddy Doctor dataset](https://www.kaggle.com/c/paddy-disease-classification/data), [Rice Leaf Disease](https://data.mendeley.com/datasets/fwcj7stb8r/1)
+
 Ensure the dataset is available in the appropriate directory.
+
+### Live Demo Image
+
+![Screenshot 2025-03-03 140320](https://github.com/user-attachments/assets/ebc0c402-9ebb-4ebe-962b-8a3a131cd68b)
+
